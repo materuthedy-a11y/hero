@@ -1,0 +1,11 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1400" height="420" viewBox="0 0 1400 420">
+<rect width="100%" height="100%" fill="None"/>
+<g transform="translate(70 120) scale(1.55)">
+<g id="symbol">
+  <path d="M10 62 L42 10 L76 10 L44 62 Z" fill="#0B0C0E"/>
+  <path d="M58 62 L90 10 L124 10 L92 62 Z" fill="#0B0C0E"/>
+  <path d="M106 62 L138 10 L168 10 L168 28 L147 62 Z" fill="#0B0C0E"/>
+</g></g>
+<text x="510" y="205" font-family="Manrope, Inter, Arial, sans-serif" font-size="108" font-weight="700" letter-spacing="5" fill="#0B0C0E">MATERU</text>
+<text x="510" y="286" font-family="Manrope, Inter, Arial, sans-serif" font-size="34" font-weight="600" letter-spacing="10" fill="#0B0C0E">DIGITAL PRODUCTS</text>
+</svg>
